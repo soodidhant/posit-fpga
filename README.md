@@ -2,7 +2,7 @@
 
 > 16-bit posit number system encoder and decoder, implemented and verified on a Xilinx Artix-7 FPGA (xc7a100tcsg324-1) using Vivado 2025.1. Includes power and resource optimisation analysis, ILA/VIO-based hardware demonstration, and a full round-trip testbench.
 
-**Authors:** Abhinav Nagpal (2210110111) · Idhant Sood (2210110303)  
+**Authors:** Idhant Sood (2210110303) · Abhinav Nagpal (2210110111)Idhant Sood (2210110303)  
 **Supervisor:** Dr. Rakesh Palisetty — Department of Electrical Engineering  
 **Institution:** Shiv Nadar Institution of Eminence, Delhi-NCR  
 **Term:** Monsoon 2025
